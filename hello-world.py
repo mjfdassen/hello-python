@@ -1,4 +1,4 @@
 lst = [1, 2, 3, 4]
 print(lst)
 for x in lst:
-    print("inhoud lijst " + str(x))
+    print("inhoud lijstje " + str(x))
